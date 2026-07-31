@@ -1,0 +1,14 @@
+Metric,Value,Unit
+telemetry_rows,130,rows
+telemetry_span,71.0005555555556,hours
+zhongli_access_samples,133,samples
+zhongli_access_fraction,0.0312060065696856,fraction
+quaternion_coverage,100,percent
+median_nadir_pointing_error,43.6490354868941,deg
+p95_nadir_pointing_error,103.398535673025,deg
+median_sun_pointing_error,87.1161389849512,deg
+thermal_model_rmse,10.2212404940455,deg C
+minimum_predicted_soc,68.168908625731,percent
+final_predicted_soc,100,percent
+mean_solar_generation,8.84523846153846,W
+mean_net_power,3.60216153846154,W
